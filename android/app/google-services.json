@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "693583997868",
+    "project_id": "mizora-school-app",
+    "storage_bucket": "mizora-school-app.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:693583997868:android:55aed947496f302a0a6809",
+        "android_client_info": {
+          "package_name": "com.example.school_mobile_app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBnYwGv-YaQHLWiDnyLbqtZqBE2zsuZK9E"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
